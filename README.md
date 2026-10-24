@@ -63,59 +63,59 @@ The following SaaS platforms provide document Q&A, structured summarization, cit
 
 ## 💻 Open-Source GitHub Projects
 
-These open-source tools allow you to run document Q&A, PDF summarization, and Retrieval-Augmented Generation locally or on private cloud infrastructure. Projects are sorted by GitHub star count in descending order.
+These open-source tools allow you to run document Q&A, PDF summarization, and Retrieval-Augmented Generation locally or on private cloud infrastructure. Projects are sorted by GitHub Stars_Count in descending order.
 
-1. **[RAGFlow](https://github.com/infiniflow/ragflow)** [![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers)  
+1. **[RAGFlow](https://github.com/infiniflow/ragflow)** [![GitHub_Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers)  
    📄 **The deep-document understanding RAG engine.** An open-source RAG engine based on deep document understanding that handles complex multi-format document templates (PDFs, PPTs, tables, and scanned documents) with verifiable grounding and grounded citations.  
    - ⚡ *Key Features*: DeepDoc parsing, hybrid search, zero-configuration document workflows, rich chunk visualization.  
    - 🎯 *Target Audience*: Teams requiring enterprise-grade document extraction from intricate PDF layouts.
 
-2. **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)** [![GitHub stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white)](https://github.com/Mintplex-Labs/anything-llm/stargazers)  
+2. **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)** [![GitHub_Stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white)](https://github.com/Mintplex-Labs/anything-llm/stargazers)  
    🖥️ **The all-in-one local-first AI document application.** Desktop and self-hosted solution that turns any document collection (PDFs, Word docs, web pages, Notion) into a searchable conversational knowledge base.  
    - ⚡ *Key Features*: Multi-user support, workspace isolation, built-in vector DB (LanceDB/Chroma), local LLM integration (Ollama/LM Studio).  
    - 🎯 *Target Audience*: Non-technical knowledge workers and privacy-focused teams wanting an intuitive GUI.
 
-3. **[PrivateGPT](https://github.com/zylon-ai/private-gpt)** [![GitHub stars](https://img.shields.io/github/stars/zylon-ai/private-gpt?style=social&color=white)](https://github.com/zylon-ai/private-gpt/stargazers)  
+3. **[PrivateGPT](https://github.com/zylon-ai/private-gpt)** [![GitHub_Stars](https://img.shields.io/github/stars/zylon-ai/private-gpt?style=social&color=white)](https://github.com/zylon-ai/private-gpt/stargazers)  
    🔒 **Production-ready 100% private document intelligence API.** A production-grade AI stack allowing you to ask questions about your documents without an internet connection and with zero data leakage.  
    - ⚡ *Key Features*: FastAPI interface, OpenAI-compliant REST endpoints, LlamaIndex foundation, support for local CPU/GPU acceleration.  
    - 🎯 *Target Audience*: Developers building secure internal document assistant services.
 
-4. **[Quivr](https://github.com/The-Vibe-Company/quivr)** [![GitHub stars](https://img.shields.io/github/stars/The-Vibe-Company/quivr?style=social&color=white)](https://github.com/The-Vibe-Company/quivr/stargazers)  
+4. **[Quivr](https://github.com/The-Vibe-Company/quivr)** [![GitHub_Stars](https://img.shields.io/github/stars/The-Vibe-Company/quivr?style=social&color=white)](https://github.com/The-Vibe-Company/quivr/stargazers)  
    🧠 **Your decentralized AI second brain.** Generative AI assistant capable of indexing continuous streams of content, multi-format PDFs, transcripts, and notes with modular brains.  
    - ⚡ *Key Features*: Modular "brains", cloud/local model switching, flexible authentication, webhook automations.  
    - 🎯 *Target Audience*: Researchers and knowledge workers seeking automated document indexing and knowledge management.
 
-5. **[Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)** [![GitHub stars](https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat?style=social&color=white)](https://github.com/chatchat-space/Langchain-Chatchat/stargazers)  
+5. **[Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)** [![GitHub_Stars](https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat?style=social&color=white)](https://github.com/chatchat-space/Langchain-Chatchat/stargazers)  
    🌐 **Knowledge-based local RAG & Agent system.** Complete local knowledge-base QA pipeline built on top of LangChain and localized LLM inference engines (ChatGLM, Qwen, Llama).  
    - ⚡ *Key Features*: Deep multi-language support, custom vector store integration, granular document chunking controls.  
    - 🎯 *Target Audience*: Developers deploying multilingual or enterprise on-premise knowledge engines.
 
-6. **[Khoj](https://github.com/khoj-ai/khoj)** [![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
+6. **[Khoj](https://github.com/khoj-ai/khoj)** [![GitHub_Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
    🔍 **Personal AI assistant and deep research agent.** Self-hostable AI second brain that searches, summarizes, and answers questions from your personal documents, notes (Obsidian, Markdown, PDF), and web sources.  
    - ⚡ *Key Features*: Desktop/web/mobile interfaces, schedule automations, autonomous deep research mode, local Ollama compatibility.  
    - 🎯 *Target Audience*: Power users, researchers, and writers organizing dense personal knowledge vaults.
 
-7. **[DocsGPT](https://github.com/arc53/DocsGPT)** [![GitHub stars](https://img.shields.io/github/stars/arc53/DocsGPT?style=social&color=white)](https://github.com/arc53/DocsGPT/stargazers)  
+7. **[DocsGPT](https://github.com/arc53/DocsGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/arc53/DocsGPT?style=social&color=white)](https://github.com/arc53/DocsGPT/stargazers)  
    📚 **Open-source document assistant and technical documentation search.** Tailored for deep technical documentation ingestion, project codebases, and corporate knowledge wikis.  
    - ⚡ *Key Features*: Built-in agent builder, document analysis workflows, fast indexing, extension integrations (Chrome/VS Code).  
    - 🎯 *Target Audience*: Engineering organizations and developer documentation teams.
 
-8. **[LLamaSharp](https://github.com/SciSharp/LLamaSharp)** [![GitHub stars](https://img.shields.io/github/stars/SciSharp/LLamaSharp?style=social&color=white)](https://github.com/SciSharp/LLamaSharp/stargazers)  
+8. **[LLamaSharp](https://github.com/SciSharp/LLamaSharp)** [![GitHub_Stars](https://img.shields.io/github/stars/SciSharp/LLamaSharp?style=social&color=white)](https://github.com/SciSharp/LLamaSharp/stargazers)  
    ⚙️ **High-performance C#/.NET local LLM and document assistant runtime.** Efficient C# bindings for llama.cpp, allowing native .NET developers to build offline document Q&A and embedding workflows without Python.  
    - ⚡ *Key Features*: Pure C# integration, cross-platform GPU support (CUDA, Metal, Vulkan), low memory overhead.  
    - 🎯 *Target Audience*: .NET enterprise developers integrating local document processing into native Windows/Linux services.
 
-9. **[ollama-local-rag](https://github.com/cpepper96/ollama-local-rag)** [![GitHub stars](https://img.shields.io/github/stars/cpepper96/ollama-local-rag?style=social&color=white)](https://github.com/cpepper96/ollama-local-rag/stargazers)  
+9. **[ollama-local-rag](https://github.com/cpepper96/ollama-local-rag)** [![GitHub_Stars](https://img.shields.io/github/stars/cpepper96/ollama-local-rag?style=social&color=white)](https://github.com/cpepper96/ollama-local-rag/stargazers)  
    💻 **Minimalist CLI for local document Q&A.** Ingests PDF, DOCX, Markdown, plain text, and RST files into ChromaDB with embeddings generated via local Ollama instances (`nomic-embed-text`).  
    - ⚡ *Key Features*: Fast terminal commands (`rag add`, `rag ask`), source attribution, zero telemetry or cloud reliance.  
    - 🎯 *Target Audience*: Terminal users and developers wanting a minimal, inspectable scriptable RAG script.
 
-10. **[YapStack](https://github.com/hookr-dev/YapStack)** [![GitHub stars](https://img.shields.io/github/stars/hookr-dev/YapStack?style=social&color=white)](https://github.com/hookr-dev/YapStack/stargazers)  
+10. **[YapStack](https://github.com/hookr-dev/YapStack)** [![GitHub_Stars](https://img.shields.io/github/stars/hookr-dev/YapStack?style=social&color=white)](https://github.com/hookr-dev/YapStack/stargazers)  
     🗂️ **Multi-format local RAG with hybrid search.** High-performance local search engine combining semantic vectors (LanceDB) and keyword indices (BM25) with Reciprocal Rank Fusion and cross-encoder reranking.  
     - ⚡ *Key Features*: Multi-modal ingestion (PDF, audio via Whisper, spreadsheets), HyDE query expansion, GPU auto-detection.  
     - 🎯 *Target Audience*: Advanced users seeking hybrid retrieval precision on mixed document formats.
 
-11. **[chat-with-pdf](https://github.com/49mg/chat-with-pdf)** [![GitHub stars](https://img.shields.io/github/stars/49mg/chat-with-pdf?style=social&color=white)](https://github.com/49mg/chat-with-pdf/stargazers)  
+11. **[chat-with-pdf](https://github.com/49mg/chat-with-pdf)** [![GitHub_Stars](https://img.shields.io/github/stars/49mg/chat-with-pdf?style=social&color=white)](https://github.com/49mg/chat-with-pdf/stargazers)  
     🎨 **Lightweight Gradio web UI for local PDF chat.** A clean, visual browser interface built with Gradio, LangChain, FAISS, and Ollama to parse documents and test local inference interactively.  
     - ⚡ *Key Features*: Interactive drag-and-drop web UI, single-command run, completely local execution.  
     - 🎯 *Target Audience*: Educators, students, and hobbyists experimenting with local document chat.
@@ -167,8 +167,8 @@ If you find this repository helpful, please consider showing your support:
 1. 🍴 Fork this repository.
 2. ✍️ Add your tool to either the **SaaS & Hosted Platforms** table or the **Open-Source GitHub Projects** list.
    - For SaaS products: Ensure specific pricing and exact free tier/trial limits are stated.
-   - For open-source repos: Provide the repository link, star badge, and an accurate architectural summary.
-3. 🔗 Ensure all links and star badges follow the existing format.
+   - For open-source repos: Provide the repository link, Stars_Badge, and an accurate architectural summary.
+3. 🔗 Ensure all links and Stars_Badges follow the existing format.
 4. 🚀 Submit a Pull Request with a short summary of why the addition is relevant.
 
 ---
