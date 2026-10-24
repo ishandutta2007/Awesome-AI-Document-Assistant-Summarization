@@ -63,7 +63,7 @@ The following SaaS platforms provide document Q&A, structured summarization, cit
 
 ## 💻 Open-Source GitHub Projects
 
-These open-source tools allow you to run document Q&A, PDF summarization, and Retrieval-Augmented Generation locally or on private cloud infrastructure. Projects are sorted by GitHub Stars_Count in descending order.
+These open-source tools allow you to run document Q&A, PDF summarization, and Retrieval-Augmented Generation locally or on private cloud infrastructure. Projects are sorted by GitHub_Stars_Count in descending order.
 
 1. **[RAGFlow](https://github.com/infiniflow/ragflow)** [![GitHub_Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers)  
    📄 **The deep-document understanding RAG engine.** An open-source RAG engine based on deep document understanding that handles complex multi-format document templates (PDFs, PPTs, tables, and scanned documents) with verifiable grounding and grounded citations.  
